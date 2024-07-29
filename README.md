@@ -6,7 +6,7 @@ Hello!👋My name is Sumit and I am studying BCA at Amity University.🏫 I am c
 
 🧠 I'm currently learning C
 
-📫 How to reach me (mail me)[mailto:sumitkumar33@amityonline.com]
+📫 How to reach me [mail me](mailto:sumitkumar33@amityonline.com)
 
 😄 Pronouns - He/his
 
