@@ -4,9 +4,9 @@
 ## 🚀 About Me
 Hello!👋My name is Sumit and I am studying BCA at Amity University.🏫 I am currently searching for my niche while studying BCA. I am learning C and hope to start C++ soon.
 
-🧠 I'm currently learning C
+🧠 I'm currently learning - C
 
-📫 How to reach me [mail me](mailto:sumitkumar33@amityonline.com)
+📫 How to reach me - [mail me](mailto:sumitkumar33@amityonline.com)
 
 😄 Pronouns - He/his
 
