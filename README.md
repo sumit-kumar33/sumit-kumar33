@@ -11,4 +11,4 @@ Hello! My name is Sumit, and I am studying BCA at Amity University. As I study B
 😄 Pronouns - He/him
 
 ## 🛠 Skills
-Python, C, Java, C++
+Python, C, Java, C++, HTML/CSS
